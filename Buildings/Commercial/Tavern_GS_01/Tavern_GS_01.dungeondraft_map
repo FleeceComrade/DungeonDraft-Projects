@@ -436,8 +436,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 1191.31, 1634.89 )",
-			"camera_zoom": 2.666667,
+			"camera_position": "Vector2( 1558.51, 809.219 )",
+			"camera_zoom": 1,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -2635,7 +2635,7 @@
 						"node_id": "1ce"
 					},
 					{
-						"position": "Vector2( 1729.28, 561.247 )",
+						"position": "Vector2( 1825.28, 567.247 )",
 						"rotation": 2.094395,
 						"scale": "Vector2( 0.93, 0.93 )",
 						"mirror": false,
