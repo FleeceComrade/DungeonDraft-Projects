@@ -14,7 +14,7 @@
 
 **Disclaimers:**
 - These maps are **for personal use only!** Neither you nor I have the rights to **monetize** any of the assets used!
-- **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and their licenses.
+- **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and involved licenses.
 
 **Other Info:**
 - [Forgotten Adventures License](https://docs.google.com/document/d/1YVEXSHlePMtlD-CPAigBF_b_dX9AoLEDJt4mv0oVyvQ/edit?tab=t.0)
