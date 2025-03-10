@@ -19,7 +19,7 @@
 - **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and involved licenses.
 
 **2.2 Attribution:**
-- Skront was the original owner of the following assets:
+- Skront is the original owner of the following assets:
   - Stone cracks overlay
   - The large curtains on [Floor 2]
   - The bamboo fence out back by the [Floor 1] kitchen door. Also appears from [Floor 2]
