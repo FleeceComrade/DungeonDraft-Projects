@@ -436,8 +436,8 @@
 		],
 		"editor_state": {
 			"current_level": 3,
-			"camera_position": "Vector2( 1402.74, 1448.56 )",
-			"camera_zoom": 3.2,
+			"camera_position": "Vector2( 1379.47, 1405.9 )",
+			"camera_zoom": 2.666667,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -550,10 +550,10 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "all",
-				"scroll": 77.75,
+				"mode": "used",
+				"scroll": 4595,
 				"selected": [
-					"res://packs/AVRAvrI4/textures/objects/Skront_Camp/Colorable/Tent_08C_Decorated.png"
+					"res://packs/k0DdKjod/textures/objects/Clutter/Adventuring_Gear/Bedrolls_and_Sleeping_Bags/Rolled_Sleeping_Bag_White_C2_1x1.png"
 				],
 				"search_strictness": 1
 			},
@@ -572,7 +572,7 @@
 		"format": 3,
 		"width": 12,
 		"height": 11,
-		"next_node_id": "370",
+		"next_node_id": "371",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
