@@ -16,7 +16,7 @@
 **2.1 Asset Usage Disclaimers:**
 - Any image inside a folder/directory titled "compressed" does **NOT** provide an accurate representation of the assets used, they are significantly decreased in quality and resolution for the sole purpose of efficient online use.
 - These maps are **FOR PERSONAL USE ONLY!** Neither you nor I have the rights to **monetize** any of the assets used!
-- **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and involved licenses.
+- **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and applicable licenses.
 
 **2.2 Attribution:**
 - Skront is the original owner of the following assets:
@@ -34,7 +34,7 @@
 - FleeceComrade (Me) is the original owner of the following assets:
   - walls
   - windows
-- Forgotten Adventures is the original owner of all remaining assets:
+- Forgotten Adventures is the original owner of all assets not yet mentioned:
   - Slight modifications were made to the color and profile of the stairs.
 
 **3.0 Other Info:**
