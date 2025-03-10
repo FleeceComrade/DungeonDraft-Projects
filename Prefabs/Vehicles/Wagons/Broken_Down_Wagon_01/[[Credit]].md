@@ -8,8 +8,8 @@
 - [Krita](https://krita.org/en/) (Post-processing and editing)
 
 **Assets Used:**
-- [2 Minute Tabletop](https://2minutetabletop.com/) – All the Flora, alive and dead
-- [Skront](https://cartographyassets.com/creator/skront-stuff/) – Flagstone Path and Cliffs
+- [2 Minute Tabletop](https://2minutetabletop.com/) – Wagon top and Animal Harness
+- [Skront](https://cartographyassets.com/creator/skront-stuff/) – Wheels, broken and intact, and tracks
 
 **Disclaimers:**
 - These prefabs are **for personal use only!** Neither you nor I have the rights to **monetize** any of the assets used!
