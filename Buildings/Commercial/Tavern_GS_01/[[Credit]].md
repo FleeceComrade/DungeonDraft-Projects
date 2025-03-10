@@ -34,7 +34,7 @@
 - FleeceComrade (Me) is the original owner of the following assets:
   - walls
   - windows
-- Forgotten Adventures is the original owner of all remaining assets:
+- Forgotten Adventures is the original owner of all assets not yet mentioned:
   - Slight modifications were made to the color and profile of the stairs.
 
 **3.0 Other Info:**
