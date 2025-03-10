@@ -1,5 +1,5 @@
 ⚠️ **THIS IS NOT A LICENSE** ⚠️<br>
-**Slightly Pretentious Credits for:** *Tavern_GS_01 Dungeondraft Map*
+**Slightly Pretentious Credits for:** *Tavern_GS_01 Dungeondraft Map Set*
 
 **Created by:** FleeceComrade
 
@@ -9,7 +9,7 @@
 
 **Assets Used:**
 - [Forgotten Adventures](https://www.forgotten-adventures.net/) – Most of the map
-- [Skront](https://www.patreon.com/skront_stuff) – Stairs and bamboo fence in the back
+- [Skront](https://cartographyassets.com/creator/skront-stuff/) – Stairs and bamboo fence in the back
 - FleeceComrade (*fleececomrade@gmail.com*) – Simple walls and windows
 
 **Disclaimers:**
