@@ -13,10 +13,12 @@ Welcome! This project is a collection of maps I created for my own personal TTRP
 - **[Calamus](https://play.google.com/store/apps/details?id=air.com.trapStreetStudios.theCalamus&pcampaignid=web_share):** Initial creation of maps.
 - **[Krita](https://krita.org/en/):** Post-processing and Editing
 
-## Assets Used
+## Assets by these Creators
 - _[Forgotten Adventures](https://www.forgotten-adventures.net/)_
 - _[Skront Stuff](https://cartographyassets.com/creator/skront-stuff/)_
 - _[2 Minute Tabletop](https://2minutetabletop.com/)_
+- _[DungeonQuill](https://cartographyassets.com/creator/dungeonquill/)_
+- _[FleeceComrade (Me)](mailto:fleececomrade@gmail.com)_
 
 ## FAQ
 - This will be populated if and when people start asking me questions.
