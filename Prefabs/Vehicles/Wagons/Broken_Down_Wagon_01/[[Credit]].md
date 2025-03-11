@@ -3,27 +3,28 @@
 
 **Created by:** FleeceComrade
 
-**Software Used:**
+**1.0 *Software Used:***
 - [Dungeondraft](https://dungeondraft.net/) (Map creation)
 - [Krita](https://krita.org/en/) (Post-processing and editing)
 
-**Assets Used:**
+**2.0 *Assets by These Creators:***
 - [2 Minute Tabletop](https://2minutetabletop.com/) – Wagon top and Animal Harness
 - [Skront](https://cartographyassets.com/creator/skront-stuff/) – Wheels, broken and intact, and tracks
 
-**Disclaimers:**
-- These prefabs are **for personal use only!** Neither you nor I have the rights to **monetize** any of the assets used!
+**2.1 *Asset Usage Disclaimers:***
+- These prefabs are **FOR PERSONAL USE ONLY!**
 - Anyone using this prefab kit (or any part of it) **must follow copyright law,** respecting all asset creators and their licenses.
 
-**Attribution and Modifications:**
-- Wagon and Animal Harness are originally created by [2 Minute Tabletop](https://2minutetabletop.com/).
-  - Modifications made:
-    - Blue color for wagon top was chosen by me, as the asset was re-colorable in Dungeondraft
-    - Krita was used to scale images to new resolution as well as other formatting and compression alterations.
-- Wagon Wheels and Tracks are originally created by [Skront Stuff](https://cartographyassets.com/creator/skront-stuff/)
-  - Modifications made:
-    - Krita was used to scale images to new resolution as well as other formatting and compression alterations.
+**2.2 *Attribution and Modifications:***
+- Wagon and Animal Harness are created by 2 Minute Tabletop. Click [here](https://2minutetabletop.com/product/caravan-bastion-map-assets-1/) for the pack it came from. 
+  - No modifications made.
+- Wagon Wheels and Tracks are originally created by [Skront Stuff](https://cartographyassets.com/creator/skront-stuff/).
+  - No modifications made.
 
-**Other Info:**
+**2.3 _Applicable Licenses:_**
 - 2 minute tabletop assets are under  [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/)
-- Skront Stuff assets are under the CAL-NA-AS License [found here](https://cartographyassets.com/license/)
+- Skront Stuff assets are under the CAL-NA-AS License [found here](https://cartographyassets.com/license/), near the bottom of the page. 
+
+**3.0 *Other Notes and Info:***
+- You are solely responsible to **ensure your own compliance with ALL** applicable licenses when displaying or distributing these maps.
+- For more info reference this collections [README](https://github.com/FleeceComrade/TTRPG-Map-Collection/blob/master/README.md), or email me at [fleececomrade@gmail.com](mailto:fleececomrade@gmail.com)
