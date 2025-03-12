@@ -24,7 +24,7 @@ Welcome! This project is a collection of maps I created for my own personal TTRP
 - This will be populated if and when people start asking me questions.
 
 ## Other Questions?
-If you have genuine questions about the map files themselves—such as formatting, image compression, navigating my crazy folder structure, or my general creation process—feel free to reach out to me at **[fleececomrade@gmail.com](mailto:fleececomrade@gmail.com)**. However, I won’t be answering questions about my campaign, its story, or the lore behind the maps.
+If you have genuine questions about the map files themselves—such as formatting, image compression, navigating my crazy folder structure, or my general creation process—feel free to reach out to me at **[fleececomrade@gmail.com](fleececomrade@gmail.com)**. However, I won’t be answering questions about my campaign, its story, or the lore behind the maps.
 
 ### Thanks and Enjoy!
 
