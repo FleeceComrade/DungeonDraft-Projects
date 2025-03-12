@@ -1,5 +1,5 @@
 # TTRPG Maps Collection
-⚠️ **THIS IS A README, *NOT* A LICENSE** ⚠️<br>
+⚠️ **THIS IS A README, *NOT* A LICENSE NOR OFFICIAL ATTRIBUTION** ⚠️<br>
 Welcome! This project is a collection of maps I created for my own personal TTRPG campaign(s). Since I put effort into making them, I figured I’d make them public in case others find them useful for their own games.
 
 ## Important Notes
