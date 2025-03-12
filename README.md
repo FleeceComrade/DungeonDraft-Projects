@@ -10,7 +10,7 @@ Welcome! This project is a collection of maps I created for my own personal TTRP
 
 ## Software Used
 - **[Dungeondraft](https://dungeondraft.net/):** Initial creation of maps.
-- **[Calamus](https://play.google.com/store/apps/details?id=air.com.trapStreetStudios.theCalamus&pcampaignid=web_share):** Initial creation of maps.
+- **[The Calamus](https://trapstreetstudios.com/theCalamus)(Android):** Initial creation of maps.
 - **[Krita](https://krita.org/en/):** Post-processing and Editing
 
 ## Assets by these Creators
