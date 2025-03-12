@@ -1,4 +1,4 @@
-⚠️ **THIS IS NOT A LICENSE** ⚠️<br>
+⚠️ THIS IS GENERAL CREDIT AND ATTRIBUTION, NOT A LICENSE ⚠️<br>
 **Slightly Pretentious Credits for:** *GS_City_01_Vicinity Dungeondraft Map Set*
 
 **Created by:** FleeceComrade
@@ -12,7 +12,6 @@
 - [Skront](https://cartographyassets.com/creator/skront-stuff/)
 - [Dungeondraft](https://dungeondraft.net/)
 - [2 Minute Tabletop](https://2minutetabletop.com/)
-- No modifications made.
 
 **2.1 *Asset Usage Disclaimers***
 - Any image inside a folder/directory titled "compressed" does **NOT** provide an accurate representation of the assets used, they are significantly decreased in quality and resolution for the sole purpose of efficient online use.
@@ -20,23 +19,22 @@
 - **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and their licenses.
 
 **2.2 _Attribution and Modifications_**
+- No notable modifications were made to any assets in this map.
 - Skront is the original owner of the following assets:
   - Stone cliff side
   - Flagstone Pathway
   - Walls and Pillars of the bridge
-  - No modifications made
-- 2 Minute Tabletop is the original owner of the 'floor' of the bridge. Click [here](https://2minutetabletop.com/product/dungeon-wall-floor-assets/) for the specific pack.
-  - No modifications made
+- 2 Minute Tabletop is the original owner of the 'floor' of the bridge. 
+  - Click [here](https://2minutetabletop.com/product/dungeon-wall-floor-assets/) for the pack it came from.
 - Dungeondraft is the original owner of all terrain and water assets used
-  - No modifications made
 - Forgotten Adventures is the original owner of all flora, living or dead, assets used.
-  - No modifications made
 
 **2.3 _Applicable Licenses_**
 - [Forgotten Adventures License](https://docs.google.com/document/d/1YVEXSHlePMtlD-CPAigBF_b_dX9AoLEDJt4mv0oVyvQ/edit?tab=t.0)
 - Skront Stuff assets are under the CAL-NA-AS License [found here](https://cartographyassets.com/license/), near the bottom of the page.
+- 2 minute tabletop assets are under  [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/)
+- There is no additional licensing for dungeondraft assets.
 
 **3.0 *Other Notes and Info***
-- There is no additional licensing for dungeondraft assets.
-- **Ensure compliance with ALL** applicable licenses when displaying or distributing these maps.
+- You are solely responsible for **ensuring your compliance with ALL** applicable licenses when displaying or distributing these maps.
 - For more info reference this collections [README](https://github.com/FleeceComrade/TTRPG-Map-Collection/blob/master/README.md), or email me at [fleececomrade@gmail.com](mailto:fleececomrade@gmail.com)

@@ -18,12 +18,12 @@
 - These maps are **FOR PERSONAL USE ONLY!**
 - **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and applicable licenses.
 
-**2.2 *Attribution and Modification***
+**2.2 *Attribution and Modifications***
 - Skront is the original owner of the following assets:
   - Stone cracks overlay
   - The large curtains on [Floor 2]
   - The bamboo fence out back by the [Floor 1] kitchen door. Also appears from [Floor 2]
-  - The bottles laying on their side, and the Rack the bottles are on/in, all by the bathtub, on [Floor 2]
+  - The bottles lying on their side, and the Rack the bottles are on/in, all by the bathtub, on [Floor 2]
   - The bubbles in the bathtub
   - The porch railing on [Floor 2]
   - The roof on the [Roof]
@@ -36,10 +36,10 @@
   - Slight modifications were made to the color and profile of the stairs.
 
 **2.3 _Applicable Licenses_**
-- [Forgotten Adventures License](https://docs.google.com/document/d/1YVEXSHlePMtlD-CPAigBF_b_dX9AoLEDJt4mv0oVyvQ/edit?tab=t.0)
+- Forgotten Adventures assets are under their own [license](https://docs.google.com/document/d/1YVEXSHlePMtlD-CPAigBF_b_dX9AoLEDJt4mv0oVyvQ/edit?tab=t.0)
 - Skront Stuff assets are under the CAL-NA-AS License [found here](https://cartographyassets.com/license/), near the bottom of the page.
 - DungeonQuill Treasure Chest asset is under the CAL-BY-NC License [found here](https://cartographyassets.com/license/), somewhat near the top of the page.
 
 **3.0 *Other Notes and Info***
-- You are solely responsible to **ensure your own compliance with ALL** applicable licenses when displaying or distributing these maps.
+- You are solely responsible for **ensuring your compliance with ALL** applicable licenses when displaying or distributing these maps.
 - For more info reference this collections [README](https://github.com/FleeceComrade/TTRPG-Map-Collection/blob/master/README.md), or email me at [fleececomrade@gmail.com](mailto:fleececomrade@gmail.com)
