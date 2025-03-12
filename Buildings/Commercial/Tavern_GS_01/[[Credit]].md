@@ -15,7 +15,7 @@
 
 **2.1 *Asset Usage Disclaimers***
 - Any image inside a folder/directory titled "compressed" does **NOT** provide an accurate representation of the assets used, they are significantly decreased in quality and resolution for the sole purpose of efficient online use.
-- These maps are **FOR PERSONAL USE ONLY!**
+- These maps are **for personal use only!** Neither you nor I have the rights to **monetize** any of the assets used!
 - **Anyone using this map (or any part of it) must follow copyright law,** respecting all asset creators and applicable licenses.
 
 **2.2 *Attribution and Modifications***
